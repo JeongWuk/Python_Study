@@ -1,0 +1,5 @@
+/venv/bin
+/venv/lib
+/venv/include
+/venv/pyvenv.cfg
+venv/
